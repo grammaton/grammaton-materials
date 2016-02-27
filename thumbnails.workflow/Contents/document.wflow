@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>AMApplicationBuild</key>
-	<string>381</string>
+	<string>419</string>
 	<key>AMApplicationVersion</key>
-	<string>2.4</string>
+	<string>2.6</string>
 	<key>AMDocumentVersion</key>
 	<string>2</string>
 	<key>actions</key>
@@ -81,8 +81,6 @@
 				</array>
 				<key>arguments</key>
 				<dict/>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -140,11 +138,11 @@
 					<key>scaleMethod</key>
 					<integer>5</integer>
 					<key>targetHeight</key>
-					<integer>128</integer>
+					<integer>333</integer>
 					<key>targetHeightPercentage</key>
 					<string>100</string>
 					<key>targetWidth</key>
-					<integer>128</integer>
+					<integer>500</integer>
 					<key>targetWidthPercentagle</key>
 					<string>100</string>
 				</dict>
@@ -261,14 +259,12 @@
 						<string>5</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.500000:661.000000</string>
+				<string>309.000000:271.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Crop Images.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Crop Images.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -737,14 +733,12 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.500000:448.000000</string>
+				<string>309.000000:432.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -1218,14 +1212,12 @@
 						<string>9</string>
 					</dict>
 				</dict>
-				<key>conversionLabel</key>
-				<integer>0</integer>
 				<key>isViewVisible</key>
 				<true/>
 				<key>location</key>
-				<string>309.500000:229.000000</string>
+				<string>309.000000:620.000000</string>
 				<key>nibPath</key>
-				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/English.lproj/main.nib</string>
+				<string>/System/Library/Automator/Rename Finder Items.action/Contents/Resources/Base.lproj/main.nib</string>
 			</dict>
 			<key>isViewVisible</key>
 			<true/>
@@ -1233,21 +1225,21 @@
 	</array>
 	<key>connectors</key>
 	<dict>
-		<key>35F495E2-E603-4D24-A7C2-95E104870EAB</key>
+		<key>058B1176-FCBB-4343-993F-42AE3521B5C7</key>
 		<dict>
 			<key>from</key>
 			<string>357EAEAC-86AD-4E70-B548-4BFFF7C7EDF5 - 357EAEAC-86AD-4E70-B548-4BFFF7C7EDF5</string>
 			<key>to</key>
 			<string>38807D5D-A56C-4164-9489-EC8347615CB7 - 38807D5D-A56C-4164-9489-EC8347615CB7</string>
 		</dict>
-		<key>5586948D-E4D0-4785-B734-F16351D07A7C</key>
+		<key>1DB3FCED-B357-4906-9F1E-B37210BEE25C</key>
 		<dict>
 			<key>from</key>
 			<string>47EFBF9D-03EA-4C53-9AE6-85C3260BD7AA - 47EFBF9D-03EA-4C53-9AE6-85C3260BD7AA</string>
 			<key>to</key>
 			<string>5362EDCE-6451-4033-B06A-AADA58EF20D5 - 5362EDCE-6451-4033-B06A-AADA58EF20D5</string>
 		</dict>
-		<key>7B8E1C3E-88EF-426E-B651-DA5C9BEACC39</key>
+		<key>5906B7C9-DC0B-4D35-92D3-F8A17F338F28</key>
 		<dict>
 			<key>from</key>
 			<string>5362EDCE-6451-4033-B06A-AADA58EF20D5 - 5362EDCE-6451-4033-B06A-AADA58EF20D5</string>
